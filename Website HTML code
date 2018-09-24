@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	  <title> Hestia Homes </title>
+	  <link rel="stylesheet" type="text/css" href="css/style.css">
+  </head>
+
+<body>
+	<header>
+		
+	  <div class="main">
+			 <ul>
+				<li class = "active" ><a href="#">Home</a></li>
+				<li><a href="#">Activities</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Contacts</a></li>
+			</ul>
+		</div>
+		<div class = "title">
+			<h1> HESTIA HOMES </h1>
+		</div>
+		<div class= "button">
+			<a href ="#" class = "btn"> Something</a>
+			<a href ="#" class = "btn"> Something</a>
+		</div>
+		
+	</header>
+	
+</body>
